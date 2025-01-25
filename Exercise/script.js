@@ -7,8 +7,8 @@
 function say_hello() {
     // CODE HERE!!!
     console.log("What is your name?")
-    console.log("Rachata Benchawattanawong")
-    console.log("Chanakarn Palipol")
+    console.log("Rachata")
+    console.log("Chanakarn")
     
 }
 
