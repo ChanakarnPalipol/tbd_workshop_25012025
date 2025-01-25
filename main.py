@@ -8,7 +8,6 @@ def main():
     num2 = int(input("Enter your number 2:"))
     
     add(num1, num2)
-
     diff(num1, num2)
    
     # Member A call method add() at line: 8
